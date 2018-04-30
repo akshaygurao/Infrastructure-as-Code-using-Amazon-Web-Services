@@ -1,4 +1,4 @@
-# CSYE 6225 Infrastructure
+# Infrastructure as Code
 
 This folder deals with the Infrastructure configs in AWS
 
